@@ -1,0 +1,11 @@
+{
+    "dataset_datapath_list":[
+        "./data/participant_1_testcase_1",
+        "./data/participant_1_testcase_2",
+        "./data/participant_2_testcase_1",
+        "./data/participant_2_testcase_2"
+    ], 
+    "dataset_imu_desired_cols": ["Acceleration_X","Acceleration_Y","Acceleration_Z","Quaterion_0","Quaterion_1","Quaterion_2","Quaterion_3"],
+    "dataset_arkit_to_ict_file": "configs/arkit_to_ict.json",
+    "dataset_overlap": 60
+}
